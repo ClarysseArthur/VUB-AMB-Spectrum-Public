@@ -14,7 +14,7 @@ We benchmark the Spectrum implementation against the scikit-learn spectral clust
 Finally, we confirm that the choice of kernel significantly impacts performance and that the adaptive density-aware kernel offers notable advantages.
 Our implementation and experimental results are publicly available on this GitHub page.
 
-A demo of the algorithm is available [here](./Demo.ipynb), the standalone kernels are available in [kernels.py](./kernels.py).
+A demo of the algorithm is available [here](./Demo.ipynb), the standalone kernels are available in [kernels.py](./Kernels.py).
 
 ## Poster
-![Poster](poster.png)
+![Poster](./Poster.png)
