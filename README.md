@@ -18,3 +18,4 @@ A demo of the algorithm is available [here](./Demo.ipynb), the standalone kernel
 
 ## Poster
 ![Poster](./Poster.png)
+
